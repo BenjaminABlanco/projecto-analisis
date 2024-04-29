@@ -1,0 +1,28 @@
+
+enum Rutas {
+  nada,
+  inicioSesion,
+  pantallaListaPeliculas,
+  pantallaPelicula,
+  pantallaConfiguracion,
+  menuPrincipal,
+  menuReportes,
+  menuData,
+  buscarMenu,
+  buscarArre,
+  buscarVivienda,
+  buscarAResult,
+  buscarVResult,
+  buscarTestResult,
+  historialArre,
+  actualArre,
+  estadoCuenta,
+  pagosPendienteArre,
+  viviendasOcupadas,
+  cuentasPagarServicios,
+  facturaDanoPropiedad,
+  anadirArre,
+  removerArre,
+  introducirPagosMoras,
+  editarPagosDesocupadas
+}
